@@ -1,0 +1,84 @@
+.background-image{
+    background-image: url(background.jpg);
+    background-size: cover;
+}
+
+.chest{
+    background-color: rgba(0, 0, 0, 0.6);
+    width: 800px;
+    height: 600px;
+    margin: auto;
+    margin-top: 20px;
+    margin-bottom: 40px;
+    text-align: center;
+    border-radius: 10px;
+}
+
+.logo{
+    width: 180px;
+    margin-top: 60px;
+}
+
+h1{
+    color: limegreen;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: x-large;
+}
+
+.bottoni{
+    background-color: limegreen;
+    margin-left: 65px;
+    margin-right: 65px;
+    height: 30px;
+    border-radius: 7px;
+}
+
+input{
+    margin: auto;
+    margin-top: 5px;
+    border-radius: 2px;
+    height: 20px;
+}
+
+.utenti{
+    text-align: left;
+    margin-left: 65px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h3{
+    display: inline;
+    color: white;
+}
+
+p{
+    color: white;
+    font-size: small;
+    margin-bottom: 0;
+    margin-top: 4px;
+}
+
+.carica1{
+    background-color: orange;
+    border-radius: 5px;
+    height: 20px;
+    width: 250px;
+}
+
+.carica2{
+    background-color: rgb(30, 190, 30);
+    border-radius: 5px;
+    height: 20px;
+    width: 500px;
+}
+
+.carica3{
+    background-color: rgb(175, 42, 42);
+    border-radius: 5px;
+    height: 20px;
+    width: 100px;
+}
+
+.stile{
+    margin-top: 20px;
+}
